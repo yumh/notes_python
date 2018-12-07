@@ -14,7 +14,7 @@
 
 ---
 - [01. **Python 基础**](01-python-summary)
-	 - [01.01 Python 入门演示](01-python-summary/01.01-a-tour-of-python.ipynb)
+	 - [01.01 Python 入门演示](01-python-summary/01.01-python入门知识.ipynb)
 	 - [01.01 Python 数据类型](01-python-summary/01.01-python-data-types.ipynb)
 	 - [01.03 数字](01-python-summary/01.03-numbers.ipynb)
 	 - [01.04 字符串](01-python-summary/01.04-strings.ipynb)
